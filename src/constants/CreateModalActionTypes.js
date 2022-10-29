@@ -1,0 +1,9 @@
+export const COMBO_SIZE_SELECT = 'COMBO_SIZE_SELECT';
+export const PIZZA_TYPE_SELECT = 'PIZZA_TYPE_SELECT';
+export const VOUCHER_INPUT = 'VOUCHER_INPUT';
+export const NAME_INPUT = 'NAME_INPUT'
+export const EMAIL_INPUT = 'EMAIL_INPUT'
+export const PHONE_INPUT = 'PHONE_INPUT';
+export const ADDRESS_INPUT = 'ADDRESS_INPUT';
+export const MESSAGE_INPUT = 'MESSAGE_INPUT';
+
